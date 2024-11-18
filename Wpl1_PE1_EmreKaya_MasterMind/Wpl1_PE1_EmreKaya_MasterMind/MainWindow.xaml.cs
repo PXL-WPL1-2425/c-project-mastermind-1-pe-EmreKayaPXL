@@ -39,7 +39,6 @@ namespace Wpl1_PE1_EmreKaya_MasterMind
 
             timer.Tick += Timer_Tick;
             timer.Interval = TimeSpan.FromMilliseconds(1);
-
         }
 
 
